@@ -1,0 +1,10 @@
+
+
+https://www.tutorialspoint.com/xquery/xquery_quick_guide.htm
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/
+
